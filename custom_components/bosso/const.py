@@ -66,7 +66,7 @@ API_BASE_V2 = "https://be.bosso.biz/api/v2"
 
 # Auth endpoints — TODO confirm exact paths with backend team
 LOGIN_PATH = "/auth/login/"
-REFRESH_PATH = "/auth/token/refresh/"
+REFRESH_PATH = "/auth/refresh/"
 
 # Device endpoints
 DEVICES_PATH = "/controller/device/"
